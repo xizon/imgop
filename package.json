@@ -1,0 +1,11 @@
+{
+  "name": "img-op",
+  "scripts": {
+    "start": "node img-op.mjs"
+  },
+  "dependencies": {
+    "imagemin": "^9.0.1",
+    "imagemin-jpegtran": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
